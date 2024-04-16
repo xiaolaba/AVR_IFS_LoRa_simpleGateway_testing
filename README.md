@@ -20,7 +20,9 @@ the board and generic info.
 
 ISP and serial port connection.
 9600 baud, N81
-5V supply and 3.3V to target board, a simple RED LED as voltage step down convertor.
+5V supply and 3.3V to target board, a simple RED LED as voltage step down convertor.  
+nots:  
+the big capacitor of mod to the RTC chip, experiment for power loss and recover eihter it is capable to backup RTC power glitch or just liye  down to initial, Ambiq RTC chip is no power intensive device.  
 ![Invisiblefun.com_SX1276_board_pcb.jpg](Invisiblefun.com_SX1276_board_pcb.jpg)  
 ![Invisiblefun.com_SX1276_board_sch.jpg](Invisiblefun.com_SX1276_board_sch.jpg)  
 
