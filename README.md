@@ -8,8 +8,9 @@ changed design for 3.3V supply rail
 
 ### Disclaimer,
 
-all those materials in presenting of this repository, either own creation or downloaded from the internet, no affiliation to the manufacturer or their designer.
-hardware  
+all those materials in presenting of this repository, either own creation or downloaded from the internet, no affiliation to the manufacturer or their designer.  
+
+hardware, IO pins,    
 LED @ PD5, MCU pin9  
 reed switch @ PB0, MCU pin12  
 IO, PC3 / PC1 PC0 or ADC3 / ADC1 / ADC0  
